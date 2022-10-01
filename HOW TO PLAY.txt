@@ -1,0 +1,10 @@
+
+==================================================== RULES ================================================= 
+        1) There are total 6 levels in the game."<<endl;
+        2) There are multiple Enemies in each levels and you have to defeat all of them to complete the level.
+        4) Player have many special abilities like critical damage, life steal, block, ranged attacks.
+        5) Each special abilities will get unlock after completing a level.
+        6) You can't block special attacks of enemies 
+        7) You have to defeat the MURLOCK (Boss) to complete the game!
+==================================================================================================================
+      
